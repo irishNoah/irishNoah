@@ -6,6 +6,15 @@ Introduce
 - 👀 I’m interested in Watch Movies & Dramas, Playing Games
 - 🌱 I’m currently learning Python(Specially AI...), PHP ans so on
 
+Carrer
+------
+- 2017 > Enter a Department of Computer Science & Engineering, Kongju National University
+- 2018 > Enter Striking Arts(Video Game Developement club), Kongju National University
+- 2020 > Acquire "Information Processing Industry Engineer" certificate organized by Q-net
+- 2021 > Personally develop Web Program
+- 2021 > Personally develop OpenCV Program
+- 2021 > Study "Design of a clothing recommendation system suitable for body shape and skin color"
+
 Stack
 -----
 #### Main
