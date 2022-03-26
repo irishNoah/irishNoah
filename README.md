@@ -1,12 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FirishNoah&count_bg=%2379C83D&title_bg=%23DB0ED2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Introduce 
+:blush: Introduce 
 ---------
 - 👋 Hi, I’m irishNoah(Chang-Young Park)
 - 👀 I’m interested in Watch Movies & Dramas, Playing Games
 - 🌱 I’m currently learning Python(Specially AI...), PHP ans so on
 
-Carrer
+:star: Carrer
 ------
 - 2017 > Enter a Department of Computer Science & Engineering, Kongju National University
 - 2018 > Enter Striking Arts(Video Game Developement club), Kongju National University
@@ -15,7 +15,7 @@ Carrer
 - 2021 > Personally develop OpenCV Program
 - 2021 > Study "Design of a clothing recommendation system suitable for body shape and skin color"
 
-Stack
+:rocket: Stack
 -----
 #### Main
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
@@ -40,7 +40,7 @@ Stack
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-Actions
+:fire: Actions
 -------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irishNoah&layout=compact&theme=tokyonight)
 [![Solved.ac Profice](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckddud)](https://solved.ac/{handle})
