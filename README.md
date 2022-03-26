@@ -40,6 +40,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
+👀 Blog
+----
+Click the button below.
+
+<a href="https://velog.io/@irish"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/park_ckddud"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+
+
 :fire: Actions
 -------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irishNoah&layout=compact&theme=tokyonight)
