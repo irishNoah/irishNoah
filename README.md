@@ -8,7 +8,7 @@
 - 👀 I’m interested in Watch Movies & Dramas, Playing Games
 - 🌱 I’m currently learning Python(Specially AI...), PHP ans so on
 
-:star: Carrer
+:star: Career
 ------
 - 2017 > Enter a Department of Computer Science & Engineering, Kongju National University
 - 2018 > Enter Striking Arts(Video Game Developement club), Kongju National University
