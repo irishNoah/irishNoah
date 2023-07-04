@@ -5,10 +5,10 @@
 - 고객에게는 더 나은 서비스를 제공하고, 기업에게는 더 경제적인 프로젝트를 만드는 것을 지향합니다.
 - 반복적인 작업을 최소화하여 메인 서비스에 집중할 수 있도록 만드는 것을 지향합니다.
 
-# 📒 Documentary
+# 📘 Documentary
 ✅ [Velog](https://velog.io/@irish) </br>
 ✅ [Naver](https://blog.naver.com/park_ckddud) </br>
 ✅ 노션 >>> 추후 게재 예정
 
-# BOJ's Tier
+# 🏆 BOJ's Tier
 [![Solved.ac Profice](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckddud)](https://solved.ac/{handle})
